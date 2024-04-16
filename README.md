@@ -8,3 +8,4 @@
 # コマンド一覧
 
 - [モバイルゲートウェイ内のSIMに割り当て可能なIPアドレスを出力(get_unused_ip)](./get_unused_ip)
+- [CSVファイルからSIM一括登録(register_sim)](./register_sim)
